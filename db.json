@@ -1,0 +1,12 @@
+{
+  "Apps": {
+    "NiidoMaster": {
+      "TermsConditions": true,
+      "TypeOfOnboarding": 1
+    },
+    "WAKOCMDX":{
+      "TermsConditions": false,
+      "TypeOfOnboarding": 0
+    }
+  }
+}
